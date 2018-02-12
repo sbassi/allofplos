@@ -1,3 +1,15 @@
+How to install for developing
+-----------------------------
+
+Clone the repository with::
+
+    git clone git@github.com:PLOS/allofplos.git
+
+Install from the downloaded directory with::
+
+    pip install -U -e /local/path/allofplos
+
+
 Thing to check before doing a release
 -------------------------------------
 
